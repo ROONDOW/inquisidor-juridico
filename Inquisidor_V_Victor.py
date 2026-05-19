@@ -3,6 +3,9 @@ Inquisidor Jurídico v7.0 — V.victor Digital Flow
 Sistema Multi-Agente com redundância dupla (NVIDIA + Gemini),
 memória persistente criptografada, cache SHA256, chunking,
 verificação de citações e proteção contra injeção de prompt.
+
+Copyright (c) 2026 ROONDOW. Todos os direitos reservados.
+Licenciado sob MIT License — veja LICENSE para detalhes.
 """
 import os
 import sys
