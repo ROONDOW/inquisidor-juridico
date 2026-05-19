@@ -1,0 +1,41 @@
+{
+  "logging": {
+    "level": "INFO",
+    "max_mb": 1,
+    "backup_count": 5
+  },
+  "rate_limit": {
+    "min_interval": 2.0,
+    "max_rpm": 10
+  },
+  "chunking": {
+    "max_size": 8000,
+    "overlap": 300
+  },
+  "prompt": {
+    "max_chars": 12000
+  },
+  "api": {
+    "temperature": 0.1,
+    "timeout": 120,
+    "ping_timeout": 30
+  },
+  "retry": {
+    "max_attempts": 3,
+    "base_delay": 1.0,
+    "max_delay": 8.0
+  },
+  "parallel": {
+    "max_workers": 4
+  },
+  "memory": {
+    "max_memory": 50,
+    "max_feedback": 100,
+    "ttl_days": 90
+  },
+  "obsidian": {
+    "vault_path": ""
+  },
+  "encrypted_keys": {},
+  "key_file": "inquisidor.key"
+}
