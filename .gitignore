@@ -1,0 +1,33 @@
+# Ambiente
+.env
+.env.*
+!.env.example
+
+# Python
+venv/
+venv_agencia/
+__pycache__/
+*.pyc
+*.pyo
+
+# Build PyInstaller
+build/
+dist/
+*.spec
+
+# IDE
+.vscode/
+.opencode/
+
+# Logs
+*.log
+
+# Chave de criptografia
+inquisidor.key
+
+# Windows artifacts
+nul
+
+# Sistema
+.DS_Store
+Thumbs.db
