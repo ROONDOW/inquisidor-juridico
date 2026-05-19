@@ -154,3 +154,16 @@ O executável será gerado em `dist/Inquisidor_V_Victor/`.
 <div align="center">
   <p><strong>INQUISITOR UNIT</strong> — Justiça é cega. O Inquisidor não.</p>
 </div>
+
+---
+
+## Licença
+
+```
+MIT License
+Copyright (c) 2026 ROONDOW
+```
+
+Este projeto é licenciado sob MIT — veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+**© 2026 ROONDOW. Todos os direitos reservados.**
